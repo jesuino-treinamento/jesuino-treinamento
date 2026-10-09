@@ -1,3 +1,5 @@
+![Demonstração do Projeto](./fotoperfilgithub.gif)
+
 # Olá, eu sou o Jesuíno! 👋
 
 Bem-vindo(a) ao meu perfil do GitHub!
