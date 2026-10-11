@@ -6,12 +6,6 @@ Bem-vindo(a) ao meu perfil do GitHub!
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jesuino-treinamento.jesuino-treinamento&query_only=true)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jesuino-treinamento.jesuino-treinamento&query_only=true&style=flat)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jesuino-treinamento.jesuino-treinamento&query_only=true&style=plastic)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jesuino-treinamento.jesuino-treinamento&query_only=true&style=for-the-badge)
-
-
-
 ### 🚀 Tecnologias que eu domino:
 - .NET / C#
 - Docker & Docker Compose
