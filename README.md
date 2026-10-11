@@ -10,7 +10,33 @@ Bem-vindo(a) ao meu perfil do GitHub!
 
 ### 🚀 Tecnologias que eu domino
 - .NET / C#
-- Docker & Docker Compose
+- Docker & Docker Compose<p align="center">
+  <!-- Indicadores -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jesuino-treinamento.jesuino-treinamento&query_only=true&color=blue&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/jesuino-treinamento?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/jesuino-treinamento/SJInovacao.Acesso?style=for-the-badge" />
+  <img src="https://img.shields.io/github/repo-size/jesuino-treinamento/SJInovacao.Acesso?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/jesuino-treinamento/SJInovacao.Acesso?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/jesuino-treinamento/SJInovacao.Acesso?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <!-- Tecnologias -->
+  <img src="https://img.shields.io/badge/.NET-8-blue?style=for-the-badge&logo=dotnet" />
+  <img src="https://img.shields.io/badge/C%23-Developer-green?style=for-the-badge&logo=csharp" />
+  <img src="https://img.shields.io/badge/Docker-Compose-blue?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Redis-Cache-red?style=for-the-badge&logo=redis" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-black?style=for-the-badge&logo=githubactions" />
+</p>
+
+<p align="center">
+  <!-- Link para documentação -->
+  <a href="https://jesuino-treinamento.github.io/SJInovacao.Acesso/">
+    <img src="https://img.shields.io/badge/Documentacao-SJInovacao.Acesso-blue?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
 - PostgreSQL / Redis
 - GitHub Actions (CI/CD)
 
