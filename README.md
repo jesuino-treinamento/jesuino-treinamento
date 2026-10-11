@@ -4,7 +4,7 @@
 
 Bem-vindo(a) ao meu perfil do GitHub!
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=jesuino-treinamento.jesuino-treinamento&query_only=true&color=blue&style=for-the-badge" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=jesuino-treinamento.jesuino-treinamento&color=blue&style=for-the-badge" />
 
 ---
 
